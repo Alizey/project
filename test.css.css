@@ -5,10 +5,10 @@
     background-color: #1f2630;
     padding:5px;
     font-family: binance Plex;
-    margin-top: 25%;
-    margin-left:10px;
-    color:white;
-    width:85%;
+   
+    margin:auto;
+    color:#848e9c;
+    width:75%;
     padding-left:18px;
     height:auto;
     font-size: 0.8em;
@@ -16,6 +16,7 @@
 }
 #B{
     background-color: 	#7DF9FF;
+    padding: 1px 3px;;
 }
 
 #head{
@@ -25,6 +26,25 @@
     text-align:right;
     padding-right:10px;
 }
+
+.white{
+    color:white;
+}
+.red{
+    color:#f6465d;
+}
+.green{
+    color:#0ecb81;
+}
+.big{
+    font-size: 1.2em;
+}
+.row1{
+    height: 30px;
+    vertical-align: top;
+}
+
+
 @font-face {
     font-family: binance Plex;
     src: url(BinancePlex-Regular.ttf);
