@@ -1,6 +1,4 @@
-.body{
-    background-color: #0e0e0e;
-}
+@media  and (max width:739px) {
 .section{
     background-color: #1f2630;
     padding:5px;
@@ -43,7 +41,7 @@
     height: 30px;
     vertical-align: top;
 }
-
+}
 
 @font-face {
     font-family: binance Plex;
